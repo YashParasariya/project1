@@ -1,0 +1,40 @@
+body {
+    background-color:black;
+    position:relative;
+}
+
+span {
+    color: azure;
+    font-size: 20px;
+}
+h1{
+    color: beige;
+}
+img {
+    left: 400px;
+    background-color:#93329E ;
+}
+
+
+.main {
+    margin:400px 200px 400px 200px;
+    background-color:#301B3F;
+    position: relative;
+    column-gap: 20px;
+}
+.in {
+    color: purple;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    color: #D7B19D;
+}
+th
+{
+    color: seashell;
+    font-size: 20px;
+}
+tr{
+    color: mediumorchid;
+}
